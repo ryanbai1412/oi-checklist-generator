@@ -3,17 +3,17 @@
 A tool to automatically generate a checklist of OI problems.
 
 Examples of generated files can be found
-for [a blank checklist](examples/blank), [rainboy](examples/rainboy), and [me](examples/skittles1412).
+for [a blank checklist](https://ryanbai1412.github.io/oi-checklist-generator/examples/blank), [rainboy](https://ryanbai1412.github.io/oi-checklist-generator/examples/rainboy), and [me](https://ryanbai1412.github.io/oi-checklist-generator/examples/skittles1412).
 
 ## Installation
 
 ### Installing using prebuilt binaries
 
-Navigate to the [release page](https://github.com/skittles1412/oi-checklist-generator/releases/latest), and either use one of the shell scripts or download the binary directly and add it to your system PATH.
+Navigate to the [release page](https://github.com/ryanbai1412/oi-checklist-generator/releases/latest), and either use one of the shell scripts or download the binary directly and add it to your system PATH.
 
 ### Installing from source
 
-[Install rust](https://rustup.rs), then run `cargo install --git https://github.com/skittles1412/oi-checklist-generator.git`
+[Install rust](https://rustup.rs), then run `cargo install --git https://github.com/ryanbai1412/oi-checklist-generator.git`
 
 ## Usage
 
